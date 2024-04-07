@@ -1,5 +1,8 @@
 
-Ola Malta! Sou o Emmanuel, 
+Ola Malta! 
+Nome: Emmanuel A Tayali
+
+
 
 Sou um desenvolvidor web,  Designer grafico, Motion Desinger
 
